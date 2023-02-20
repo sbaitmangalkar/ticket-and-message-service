@@ -4,7 +4,6 @@ import com.google.protobuf.Timestamp;
 import com.sbaitman.message.proto.Message;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Repository;
-import org.springframework.stereotype.Service;
 
 import java.time.Instant;
 import java.util.Arrays;
